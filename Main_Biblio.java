@@ -1,4 +1,4 @@
-package com.mycompany.luisquizz;
+package com.mycompany.Main_Biblio;
 /**
  *
  * Programa para gestionar una biblioteca virtual, con lista de libros, y prestamos de los mismos,
@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class Luisquizz {
+public class Main_Biblio {
 
 public static void main(String[] args) {
 	Scanner obj=new Scanner(System.in);
